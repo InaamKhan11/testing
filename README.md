@@ -48,7 +48,7 @@ All of the above PLUS:
 
 ## PLATFORM-SPECIFIC INSTRUCTIONS
 
-## LINKEDIN (Priority Platform - Omer's Personal Profile)
+## LINKEDIN (Priority Platform - Aun's Personal Profile)
 
 **WHO POSTS:** Omer (founder) - must be from his personal account, not company page
 
