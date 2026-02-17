@@ -15,7 +15,7 @@
 
 **9:00 AM - LinkedIn**
 - Post revenue proof or education content
-- Omer must approve before posting
+- Aun must approve before posting
 
 **12:00 PM - Instagram**
 - Reel or carousel post
@@ -50,7 +50,7 @@ All of the above PLUS:
 
 ## LINKEDIN (Priority Platform - Aun's Personal Profile)
 
-**WHO POSTS:** Omer (founder) - must be from his personal account, not company page
+**WHO POSTS:** Aun (founder) - must be from his personal account, not company page
 
 **WHAT TO POST:** 5 times per week (Mon-Fri at 9 AM)
 
@@ -87,8 +87,8 @@ Last month:
 1. Log into Ghumo Airbnb dashboard
 2. Screenshot this month's performance (bookings, revenue, occupancy)
 3. Write post using template above
-4. Send to Omer for approval via WhatsApp/Slack
-5. Once approved, Omer posts from his account at 9 AM Monday
+4. Send to Aun for approval via WhatsApp/Slack
+5. Once approved, Aun posts from his account at 9 AM Monday
 
 **TIME:** 20 minutes
 
@@ -136,8 +136,8 @@ Want your listing audited? Comment "AUDIT" below.
 2. Show Ghumo example of doing it right
 3. Screenshot Ghumo listing
 4. Write post using template
-5. Send to Omer for approval
-6. Omer posts Tuesday 9 AM
+5. Send to Aun for approval
+6. Aun posts Tuesday 9 AM
 
 **TIME:** 30 minutes
 
@@ -178,8 +178,8 @@ Running an Airbnb? What's your guest experience strategy?
 3. Screenshot it
 4. Identify what specific thing guest loved
 5. Write post explaining that tactic
-6. Send to Omer for approval
-7. Omer posts Wednesday 9 AM
+6. Send to Aun for approval
+7. Aun posts Wednesday 9 AM
 
 **TIME:** 15 minutes
 
@@ -225,8 +225,8 @@ Try it and tag us in your results.
 2. Show before/after from Ghumo
 3. Write 3-step implementation
 4. Create simple graphic in Canva (optional)
-5. Send to Omer for approval
-6. Omer posts Thursday 9 AM
+5. Send to Aun for approval
+6. Aun posts Thursday 9 AM
 
 **TIME:** 20 minutes
 
@@ -261,11 +261,11 @@ What's your biggest Airbnb challenge right now?
 ```
 
 **TEAM TASK:**
-1. Ask Omer: "Any challenges or wins this week with Ghumo?"
+1. Ask Aun: "Any challenges or wins this week with Ghumo?"
 2. Write story post based on his answer
 3. Get photo/screenshot related to story
-4. Send to Omer for approval
-5. Omer posts Friday 9 AM
+4. Send to Aun for approval
+5. Aun posts Friday 9 AM
 
 **TIME:** 25 minutes
 
@@ -710,7 +710,7 @@ Which one will you implement first? Comment below ðŸ‘‡
 ### DAILY EXECUTION (30 min/day Monday-Friday)
 
 **Morning (9 AM - 10 minutes):**
-- Omer posts LinkedIn content (pre-written from Sunday)
+- Aun posts LinkedIn content (pre-written from Sunday)
 - Team member responds to comments
 
 **Midday (12 PM - 5 minutes):**
@@ -729,13 +729,13 @@ Which one will you implement first? Comment below ðŸ‘‡
 
 **This is how we convert content into leads.**
 
-### LinkedIn Engagement (Omer + 1 team member)
+### LinkedIn Engagement (Aun + 1 team member)
 
 **WHEN:** Check 3x daily (10 AM, 2 PM, 6 PM)
 
 **WHAT TO DO:**
 
-1. **Respond to every comment on Omer's posts:**
+1. **Respond to every comment on Aun's posts:**
    - If someone says "great tip" â†’ Reply: "Thanks [Name]! Are you running an Airbnb currently?"
    - If someone asks a question â†’ Answer helpfully, then ask: "Do you own any properties?"
    - If someone says "I need this" â†’ Reply: "Happy to help! Send me a DM and let's chat"
@@ -831,7 +831,7 @@ Which one will you implement first? Comment below ðŸ‘‡
 - [ ] Instagram: @ghumo.pk
 - [ ] TikTok: @ghumo.pk
 - [ ] Facebook Page: Ghumo
-- [ ] LinkedIn: Omer's personal profile (NOT company page)
+- [ ] LinkedIn: Aun's personal profile (NOT company page)
 - [ ] Calendly: For booking calls
 
 ### Apps to Download:
@@ -854,7 +854,7 @@ Which one will you implement first? Comment below ðŸ‘‡
 
 ## WEEKLY METRICS TO TRACK
 
-**Every Friday, team fills this out and sends to Omer:**
+**Every Friday, team fills this out and sends to Aun:**
 
 ### POSTING METRICS:
 - LinkedIn posts: [X/5]
@@ -908,10 +908,10 @@ Which one will you implement first? Comment below ðŸ‘‡
 - Daily: Post to Instagram, TikTok, Facebook
 - Daily: Basic engagement (respond to comments)
 
-### PERSON 2: Engagement Manager (Omer + 1 team member)
+### PERSON 2: Engagement Manager (Aun + 1 team member)
 **Time:** 30 minutes daily
 **Tasks:**
-- Omer: Posts on LinkedIn daily
+- Aun: Posts on LinkedIn daily
 - Team: Responds to LinkedIn comments
 - Team: Sends LinkedIn connection requests
 - Team: Responds to all DMs across all platforms
@@ -1052,10 +1052,10 @@ Which one will you implement first? Comment below ðŸ‘‡
 - [ ] Monday-Friday: Post daily per schedule
 - [ ] Monday-Friday: Engage daily (comments, DMs)
 - [ ] Friday: Track weekly metrics
-- [ ] Friday: Send metrics report to Omer
+- [ ] Friday: Send metrics report to Aun
 
 ### DAILY CHECKLIST:
-- [ ] LinkedIn post (9 AM) - Omer
+- [ ] LinkedIn post (9 AM) - Aun
 - [ ] Instagram post (12 PM) - Team
 - [ ] TikTok post (3 PM) - Team
 - [ ] Facebook repost (6 PM) - Team
@@ -1111,7 +1111,7 @@ Which one will you implement first? Comment below ðŸ‘‡
 
 **The goal:** 90 days of consistency = social media becomes your #1 lead source.
 
-**Questions?** Ask Omer. Otherwise, just follow this document exactly.
+**Questions?** Ask Aun. Otherwise, just follow this document exactly.
 
 ---
 
