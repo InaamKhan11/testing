@@ -1,4 +1,4 @@
-# GHUMO SOCIAL MEDIA EXPLOSION PLAN
+# CLOUDXBPO SOCIAL MEDIA EXPLOSION PLAN
 ## Exact Instructions for Team - Ready to Execute
 
 **Goal:** Generate consistent leads for CloudxBPO Airbnb services using Ghumo proof across all platforms.
